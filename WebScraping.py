@@ -1,0 +1,7 @@
+s = input("Enter a sentence: ")
+d = s.upper()
+print(d)
+c = s.title()
+print(c)
+f = s.lower()
+print(f)
